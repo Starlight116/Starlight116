@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Starlight116
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning how to make my own games
+- Hi, I’m Starlight
+- I’m making silly little games on GB Studio, in C and in JAVA
 
 <!---
 Starlight116/Starlight116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
