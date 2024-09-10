@@ -1,5 +1,5 @@
 - Hi, I’m Camille (Starlight on the internet)
-- I'm a french IT student
+- I'm a french Dev
 - I’m making silly little games on GB Studio, in C and in JAVA
 
 <!---
