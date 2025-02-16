@@ -1,8 +1,3 @@
 - Hi, I’m Camille (Starlight on the internet)
 - I'm a french Dev
-- I’m making silly little games on GB Studio, in C and in JAVA
-
-<!---
-Starlight116/Starlight116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m making silly little games and random stuff (i'm mostly posting university stuff)
